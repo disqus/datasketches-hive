@@ -101,6 +101,11 @@
 
   <repositories>
     <repository>
+      <id> Pentaho </id>
+      <name> Pentaho</name>
+      <url> https://public.nexus.pentaho.org/content/groups/omni</url>
+    </repository>
+    <repository>
       <id>jcenter</id>
       <name>bintray</name>
       <url>https://jcenter.bintray.com</url>
